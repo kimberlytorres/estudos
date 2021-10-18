@@ -40,3 +40,8 @@ _Material retirado do curso "Introdução a criação de websites com HTML5 e CS
 
 Além da tag `< a href= "#" >`, é possível utilizar `< a href="mailto: nome@email.com" >` para fazer um link direto ao e-mail preenchido. 
 
+
+
+## Links Úteis
+
+[Site para compressão de imagens PNG](https://tinypng.com/)
