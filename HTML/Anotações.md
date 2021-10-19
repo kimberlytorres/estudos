@@ -1,6 +1,6 @@
 # HTML
 
-## Semântica
+## :pencil: Semântica
 
 A semântica nos permite descrever mais precisamente o nosso conteúdo, no lugar de utilizar apenas diversas divs. 
 
@@ -36,12 +36,25 @@ _Material retirado do curso "Introdução a criação de websites com HTML5 e CS
 
 
 
-## Tags para Links
+## :link: Tags para Links
 
 Além da tag `< a href= "#" >`, é possível utilizar `< a href="mailto: nome@email.com" >` para fazer um link direto ao e-mail preenchido. 
 
 
 
-## Links Úteis
+## :hammer_and_wrench: Links Úteis
 
 [Site para compressão de imagens PNG](https://tinypng.com/)
+
+[Adobe Color Wheel](https://color.adobe.com/pt/create/color-wheel)
+
+[Coolors](https://coolors.co/)
+
+#### Bancos de imagens gratuitos
+
+[Pexels](https://www.pexels.com/pt-br/)
+
+[Pixabay](https://pixabay.com/pt/)
+
+[Unsplash](https://unsplash.com/) 
+
