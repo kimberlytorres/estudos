@@ -50,6 +50,8 @@ Além da tag `< a href= "#" >`, é possível utilizar `< a href="mailto: nome@em
 
 [Coolors](https://coolors.co/)
 
+[CSS Tricks](https://css-tricks.com/)
+
 #### Bancos de imagens gratuitos
 
 [Pexels](https://www.pexels.com/pt-br/)
